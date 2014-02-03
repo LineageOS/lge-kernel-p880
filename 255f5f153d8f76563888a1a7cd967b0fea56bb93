@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_7c9cd969",
+        "filename": "arch/arm/mach-tegra/lge/x3/board-x3-kbc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2014-02-03T12:47:27Z",
+      "side": 1,
+      "message": "These changes don\u0027t do anything. See line 37, X3 doesn\u0027t use this code block at all, it uses the debouncing struct below.",
+      "revId": "255f5f153d8f76563888a1a7cd967b0fea56bb93",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_1c82ed00",
+        "filename": "arch/arm/mach-tegra/lge/x3/board-x3-kbc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2014-02-03T12:47:27Z",
+      "side": 1,
+      "message": "These we can keep.",
+      "revId": "255f5f153d8f76563888a1a7cd967b0fea56bb93",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
